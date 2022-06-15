@@ -1,0 +1,167 @@
+﻿  Source.cpp
+D:\Developer\CPP\University\Templates\Templates\Source.cpp(218,6): warning C4101: el: неиспользованная локальная переменная
+D:\Developer\CPP\University\Templates\Templates\Source.cpp(120): message : выполняется компиляция ссылки на экземпляр шаблон функции "void check_stack<int>(void)"
+D:\Developer\CPP\University\Templates\Templates\Stack.h(173,34): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(169): message : во время компиляции функции-члена класс шаблон "Stack<T> &Stack<T>::operator =(const Stack<T> &)"
+          with
+          [
+              T=int
+          ]
+D:\Developer\CPP\University\Templates\Templates\Source.cpp(249): message : выполняется компиляция ссылки на экземпляр шаблон функции "Stack<T> &Stack<T>::operator =(const Stack<T> &)"
+          with
+          [
+              T=int
+          ]
+D:\Developer\CPP\University\Templates\Templates\Source.cpp(143): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Stack<T>"
+          with
+          [
+              T=int
+          ]
+D:\Developer\CPP\University\Templates\Templates\Source.cpp(120): message : выполняется компиляция ссылки на экземпляр шаблон функции "void check_stack<int>(void)"
+D:\Developer\CPP\University\Templates\Templates\Stack.h(71,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Developer\CPP\University\Templates\Templates\Source.cpp(168): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::istream &operator >><T>(std::istream &,Stack<T> &)"
+          with
+          [
+              T=int
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(173,34): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=char
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(169): message : во время компиляции функции-члена класс шаблон "Stack<T> &Stack<T>::operator =(const Stack<T> &)"
+          with
+          [
+              T=char
+          ]
+D:\Developer\CPP\University\Templates\Templates\Source.cpp(249): message : выполняется компиляция ссылки на экземпляр шаблон функции "Stack<T> &Stack<T>::operator =(const Stack<T> &)"
+          with
+          [
+              T=char
+          ]
+D:\Developer\CPP\University\Templates\Templates\Source.cpp(143): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Stack<T>"
+          with
+          [
+              T=char
+          ]
+D:\Developer\CPP\University\Templates\Templates\Source.cpp(123): message : выполняется компиляция ссылки на экземпляр шаблон функции "void check_stack<char>(void)"
+D:\Developer\CPP\University\Templates\Templates\Stack.h(161,26): warning C4244: =: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(157): message : во время компиляции функции-члена класс шаблон "float Stack<T>::recursion_copy(Stack<T>::element *)"
+          with
+          [
+              T=int
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(173): message : выполняется компиляция ссылки на экземпляр шаблон функции "float Stack<T>::recursion_copy(Stack<T>::element *)"
+          with
+          [
+              T=int
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(81): message : во время компиляции функции-члена класс шаблон "Stack<T>::Stack(void)"
+          with
+          [
+              T=int
+          ]
+D:\Developer\CPP\University\Templates\Templates\Source.cpp(143): message : выполняется компиляция ссылки на экземпляр шаблон функции "Stack<T>::Stack(void)"
+          with
+          [
+              T=int
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(164,28): warning C4244: return: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(86,33): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(84): message : во время компиляции функции-члена класс шаблон "Stack<T>::Stack(const Stack<T> &)"
+          with
+          [
+              T=int
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(58): message : выполняется компиляция ссылки на экземпляр шаблон функции "Stack<T>::Stack(const Stack<T> &)"
+          with
+          [
+              T=int
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(161,26): warning C4244: =: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=char
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(157): message : во время компиляции функции-члена класс шаблон "float Stack<T>::recursion_copy(Stack<T>::element *)"
+          with
+          [
+              T=char
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(173): message : выполняется компиляция ссылки на экземпляр шаблон функции "float Stack<T>::recursion_copy(Stack<T>::element *)"
+          with
+          [
+              T=char
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(81): message : во время компиляции функции-члена класс шаблон "Stack<T>::Stack(void)"
+          with
+          [
+              T=char
+          ]
+D:\Developer\CPP\University\Templates\Templates\Source.cpp(143): message : выполняется компиляция ссылки на экземпляр шаблон функции "Stack<T>::Stack(void)"
+          with
+          [
+              T=char
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(86,33): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=char
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(84): message : во время компиляции функции-члена класс шаблон "Stack<T>::Stack(const Stack<T> &)"
+          with
+          [
+              T=char
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(58): message : выполняется компиляция ссылки на экземпляр шаблон функции "Stack<T>::Stack(const Stack<T> &)"
+          with
+          [
+              T=char
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(164,28): warning C4244: return: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(157): message : во время компиляции функции-члена класс шаблон "float Stack<T>::recursion_copy(Stack<T>::element *)"
+          with
+          [
+              T=double
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(173): message : выполняется компиляция ссылки на экземпляр шаблон функции "float Stack<T>::recursion_copy(Stack<T>::element *)"
+          with
+          [
+              T=double
+          ]
+D:\Developer\CPP\University\Templates\Templates\Stack.h(81): message : во время компиляции функции-члена класс шаблон "Stack<T>::Stack(void)"
+          with
+          [
+              T=double
+          ]
+D:\Developer\CPP\University\Templates\Templates\Source.cpp(143): message : выполняется компиляция ссылки на экземпляр шаблон функции "Stack<T>::Stack(void)"
+          with
+          [
+              T=double
+          ]
+D:\Developer\CPP\University\Templates\Templates\Source.cpp(143): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Stack<T>"
+          with
+          [
+              T=double
+          ]
+  Templates.vcxproj -> D:\Developer\CPP\University\Templates\Templates\Debug\Templates.exe
